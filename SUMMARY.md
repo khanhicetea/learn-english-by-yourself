@@ -4,6 +4,5 @@
 * [Chữ cái trong tiếng Anh](chu-cai-trong-tieng-anh.md)
 * [Các loại từ trong tiếng Anh](cac-loai-tu-trong-tieng-anh.md)
   * [Noun - Danh từ](noun-danh-tu.md)
-
-
+* [Verb - Động từ](verb-dong-tu.md)
 
